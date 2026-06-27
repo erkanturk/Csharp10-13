@@ -15,4 +15,5 @@
   <Project Path="12_Arrays_3_OtomatProjesi/12_Arrays_3_OtomatProjesi.csproj" Id="b005adfd-f4b6-4045-bc64-0b85350f928d" />
   <Project Path="13_Switch_Case_OdevCozum/13_Switch_Case_OdevCozum.csproj" Id="040e0630-8edf-4aec-baa8-87e6086ea83a" />
   <Project Path="14_TryCatch/14_TryCatch.csproj" Id="4bb1e2a2-4a63-438c-8a60-cd3d671570b2" />
+  <Project Path="15_Math_Methods/15_Math_Methods.csproj" Id="0c549562-4231-45a4-b6ac-c518dc72bc6d" />
 </Solution>
