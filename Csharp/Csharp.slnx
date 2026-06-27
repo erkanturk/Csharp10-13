@@ -1,0 +1,18 @@
+<Solution>
+  <Project Path="01_Degisken_VeriTipleri/01_Degisken_VeriTipleri.csproj" />
+  <Project Path="02_Console_ReadLine/02_Console_ReadLine.csproj" Id="cb333ad1-00c3-4918-a92d-62fb7c14f60b" />
+  <Project Path="03_Convert/03_Convert.csproj" Id="f6bbdcb6-e945-4f9e-ab3a-4c7ac4f5d356" />
+  <Project Path="04_Operatorler/04_Operatorler.csproj" Id="d2a9664f-c345-4373-a0e4-0814d00a8a8d" />
+  <Project Path="05_DateTime/05_DateTime.csproj" Id="01758739-60f1-4e2f-b07a-76f952317912" />
+  <Project Path="06_If_Else/06_If_Else.csproj" Id="a63479c2-3783-4417-aa1b-1332868c952e" />
+  <Project Path="07_Random/07_Random.csproj" Id="a4e33dfc-11a8-4efc-b657-7193579ff6e4" />
+  <Project Path="08_Switch_Case/08_Switch_Case.csproj" Id="02725a80-e05d-4e92-8637-92986edda783" />
+  <Project Path="09_Do_While/09_Do_While.csproj" Id="76d959d3-92d1-4040-9fc4-be1ba14fa2f3" />
+  <Project Path="10_Dongu_For/10_Dongu_For.csproj" Id="4cf60519-8e21-451c-885a-18b621dfee91" />
+  <Project Path="11_While/11_While.csproj" Id="411055d2-81b7-4a5a-af23-adfdd575d04d" />
+  <Project Path="12_Arrays/12_Arrays.csproj" Id="06eff107-3430-4ebe-b566-7f27ba8e8fa8" />
+  <Project Path="12_Arrays_2/12_Arrays_2.csproj" Id="9e035aea-f9d1-491e-8615-7fe61a9e8665" />
+  <Project Path="12_Arrays_3_OtomatProjesi/12_Arrays_3_OtomatProjesi.csproj" Id="b005adfd-f4b6-4045-bc64-0b85350f928d" />
+  <Project Path="13_Switch_Case_OdevCozum/13_Switch_Case_OdevCozum.csproj" Id="040e0630-8edf-4aec-baa8-87e6086ea83a" />
+  <Project Path="14_TryCatch/14_TryCatch.csproj" Id="4bb1e2a2-4a63-438c-8a60-cd3d671570b2" />
+</Solution>
