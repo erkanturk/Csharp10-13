@@ -3,7 +3,8 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {//Gith Deneme
+
             #region proje
             /* 
             https://www.youtube.com/watch?v=g1j1VUmig1Q
