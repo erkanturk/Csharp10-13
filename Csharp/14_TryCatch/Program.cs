@@ -1,4 +1,6 @@
-﻿namespace _14_TryCatch
+﻿using _17_Void_Methods;
+
+namespace _14_TryCatch
 {
     internal class Program
     {
@@ -120,48 +122,50 @@
             //}
             #endregion
             #region Finaly
-            //finaly yapısı hata durumunda da hata olmama durumunda da çalışacak bir kısımdır.
-            string deger = "Open";
+            ////finaly yapısı hata durumunda da hata olmama durumunda da çalışacak bir kısımdır.
+            //string deger = "Open";
 
-            try
-            {
-                
-                if (deger == "Open")
-                {
-                    Console.WriteLine("Sayı giriniz");
-                    int sayi = Convert.ToInt32(Console.ReadLine());
-                }
+            //try
+            //{
 
-               
+            //    if (deger == "Open")
+            //    {
+            //        Console.WriteLine("Sayı giriniz");
+            //        int sayi = Convert.ToInt32(Console.ReadLine());
+            //    }
 
-            }
-            catch (Exception)
-            {
 
-                Console.WriteLine("Hata");
-            }
-            finally
-            {
-                //deger = "Closed";//Hatalı durumda da hata olmama durumundada çalışır.
-                if (deger == "Open")
-                {
-                    deger = "Closed";
-                }
-                else
-                {
-                    deger = "Open";
-                }
-            }
-            if (deger == "Open")
-            {
-                Console.WriteLine("Bağlantı hala açık işlem yapılamaz");
-            }
-            else if(deger=="Closed")
-            {
-                Console.WriteLine("işlem yapmaya devam edebilirsiniz.");
-            }
+
+            //}
+            //catch (Exception)
+            //{
+
+            //    Console.WriteLine("Hata");
+            //}
+            //finally
+            //{
+            //    //deger = "Closed";//Hatalı durumda da hata olmama durumundada çalışır.
+            //    if (deger == "Open")
+            //    {
+            //        deger = "Closed";
+            //    }
+            //    else
+            //    {
+            //        deger = "Open";
+            //    }
+            //}
+            //if (deger == "Open")
+            //{
+            //    Console.WriteLine("Bağlantı hala açık işlem yapılamaz");
+            //}
+            //else if(deger=="Closed")
+            //{
+            //    Console.WriteLine("işlem yapmaya devam edebilirsiniz.");
+            //}
 
             #endregion
+            Islemler islemler = new Islemler();
+            islemler.Islem(1000,200,'*');
 
         }
     }
